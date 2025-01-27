@@ -27,7 +27,10 @@
 - **c. Scatter Plot: COVID-19 Deaths vs. Excess Deaths**  
   Use a scatter plot to examine the relationship between COVID-19 deaths per 100,000 people and excess deaths per 100,000 people across regions.
 
-## 6. Summary
+## 6. Analyzing the Clean Data
+  Using different methods to visualize and analyze the cleaned data
+
+## 7. Summary
 - The dataset was cleaned by removing missing values and formatting the date columns for consistency.
 - Visualizations provided insights into trends in COVID-19 deaths, excess deaths, and regional impacts.
 - The cleaned dataset was saved for future analysis.
