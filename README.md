@@ -5,7 +5,7 @@
 
 ## 2. Loading the Dataset
 - Use the provided `covid_death.csv` file, which includes information about COVID-19 deaths, total deaths, population, regions, and related statistics.
-- The dataset will be loaded into a tool like Pandas for analysis.
+- The dataset will be loaded into a tool like Pandas for analysis. [You can use any other datasets: update code accordingly]
 - Source: [Kaggle](https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset)
 
 ## 3. Exploring the Dataset
